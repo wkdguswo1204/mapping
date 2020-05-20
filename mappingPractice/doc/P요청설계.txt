@@ -1,0 +1,6 @@
+------------------------------------------------------------------
+0. 메인 폼 요청
+	요청내용 : /practice1/practice1.cls
+	파라미터 :	무
+	컨트롤러 :	com.increpas.www.controller.PMainController
+	뷰	  : /practice1/practice.jsp
